@@ -8,14 +8,17 @@ body.node-31 div.block-trumba-promo-control-spud-block {
 body.node-31 div.block-trumba-promo-control-spud-block + div.block-trumba-promo-control-spud-block {
     margin-bottom: 2em;
 }
-.sub-nav li li li a:first-child {padding-left: 6em;} /*indent tertiary pages in the sub menus */
-.menu-item .is-active{background-color: #f8eecc;} /*highlight the menu item for the page you are on */
-
+*/
+/*.sub-nav li li li a:first-child {padding-left: 6em;} /*indent tertiary pages in the sub menus */
+/*.menu-item .is-active{background-color: #f8eecc;} /*highlight the menu item for the page you are on */
+/*
 div.social-share {
 	display: none;
 }
+*/
 /* modify blockquote for SA directory indenting */
-body.node-426 blockquote {
+
+/*body.node-426 blockquote {
 	font-size: 16px;
 	font-size: 1rem;
 	line-height: 1.44444;
