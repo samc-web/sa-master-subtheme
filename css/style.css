@@ -1,6 +1,7 @@
 /* Add CSS theme overrides here. */
 /* Remove the bottom margin on Trumba spud blocks so there aren't gaps, only main listing on calendar page .node-31 */ 
 
+/*
 body.node-31 div.block-trumba-promo-control-spud-block {
     margin-bottom: -1em;
 }
@@ -28,3 +29,4 @@ img.image-style-staff-highlight{
     display: block; margin-left: auto; margin-right: auto;
     margin-bottom: 10px;
 }
+*/
